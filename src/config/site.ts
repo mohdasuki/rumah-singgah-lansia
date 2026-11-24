@@ -13,9 +13,9 @@ export const siteConfig = {
   institution: "Universitas Muhammadiyah Jember",
 
   links: {
-    registration: "",
-    healthScreening: "",
-    healthService: "",
+    registration: "https://forms.gle/UByUDm8gBJvkz1nk7",
+    healthScreening: "https://forms.gle/9DwNyKoSZwXVfqfh6",
+    healthService: "https://forms.gle/QSpgJmGmLbtrNAuj6",
     whatsapp: "https://wa.me/6285745768017",
     instagram: "",
     maps: "",
